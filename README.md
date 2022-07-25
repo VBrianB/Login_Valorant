@@ -1,7 +1,11 @@
+
+
+
 ## 👀 Overview
 
 Recriação da tela de Log In do jogo "Valorant" da Riot Games, que é o meu jogo favorito 😅, ele foi feito em HTML CSS e um pouco de Javascript.
 
+<img src="LoginValorant-Print.gif" />
 
 ## 💡 Ideia 
 
@@ -18,10 +22,9 @@ O projeto foi com intuição de treinar validação de formulário, e claro... P
 
 
 <br>
-<br>
+
 
 ## 🚀 Future
-<br> 
 
 ### Código
 
